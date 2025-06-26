@@ -1,0 +1,8 @@
+python-telegram-bot==13.7
+python-binance==1.0.19
+xgboost==1.6.2
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.0
+ta==0.10.2
+twisted==22.10.0
